@@ -32,3 +32,7 @@ The project demonstrates responsive design, modern UI/UX, and smooth animations 
    ```bash
    git clone https://github.com/ShahbazAhmad08/SkillDossier.git
    cd skilldossier
+
+2. Project Live on:
+   '''bash
+   https://skill-dossier.vercel.app/
