@@ -34,5 +34,4 @@ The project demonstrates responsive design, modern UI/UX, and smooth animations 
    cd skilldossier
 
 2. Project Live on:
-   '''bash
    https://skill-dossier.vercel.app/
